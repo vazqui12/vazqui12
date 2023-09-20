@@ -7,7 +7,7 @@ Soy un apasionado del Hacking ético y Red Team. He trabajado en proyectos emoci
 ## Habilidades
 
 - **Lenguajes de Programación:** Bash, Python
-- **Tecnologías:** [Lista de tecnologías y herramientas que utilizas]
+- **Tecnologías:** Burpsuite, Nmap, Metasploit... entre otras.
 
 ## Contacto
 
