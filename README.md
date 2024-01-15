@@ -1,6 +1,6 @@
 # ¡Hola, soy Daniel! 👋
 
-## 🧑‍🦱 Sobre Mí
+## 🧑‍🦱 Whoami
 
 Soy un apasionado del Hacking ético y Red Team. He trabajado en proyectos emocionantes relacionados con Pentesting y disfruto resolviendo desafíos técnicos.
 
